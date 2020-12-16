@@ -1,9 +1,9 @@
 # M150_WebShop
-##Design
+## Design
 Layout, Aussehen und Benutzeroberfläche des Webshops
 
-##Code 
+## Code 
 React-Code für den Webshop
 
-##Dokumentation
+## Dokumentation
 Dokumentation des Projektes
