@@ -7,3 +7,11 @@ React-Code für den Webshop
 
 ## Dokumentation
 Dokumentation des Projektes
+
+Gruppe : Shramdeep, Sven, Nando
+
+Spezialisten : Sven : Design
+Code : Nando
+Allrounder : Shramdeep
+
+
