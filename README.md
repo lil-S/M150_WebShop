@@ -10,8 +10,9 @@ Dokumentation des Projektes
 
 Gruppe : Shramdeep, Sven, Nando
 
-Spezialisten : Sven : Design
-Code : Nando
-Allrounder : Shramdeep
+Spezialisten :
+      Sven : Design
+      Code : Nando
+      Allrounder : Shramdeep
 
 
