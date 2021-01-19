@@ -4,7 +4,7 @@
 
 Gruppe : Shramdeep, Sven, Nando
 
-Bootstrap installation:
+### Bootstrap installation:
 - "npm install --save bootstrap" in Terminal
 <img src="bilder/install_bootstrap.PNG" width="700" height="100">
 <br>
